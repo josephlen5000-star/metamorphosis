@@ -36,10 +36,6 @@ The project focuses on making nutrition information accessible through a simple 
 
 The application is currently deployed and functional.
 
-## Status
-
-The application is currently deployed and functional.
-
 ## Screenshots
 
 ### Profile Setup
