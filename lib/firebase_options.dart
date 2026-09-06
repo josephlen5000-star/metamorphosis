@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 
 class DefaultFirebaseOptions {
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB2PSSD3G67G76J2qq78Co6RhMMFj1GE5k',
+    apiKey: 'AIzaSyBTr6_tLfW52ex9BXEAfqSZGG4VEqqlw54',
     authDomain: 'metamorphosis-66fd1.firebaseapp.com',
     storageBucket: 'metamorphosis-66fd1.firebasestorage.app',
     appId: '1:5863588128:web:9a27a2db40e98ff00b1745',
