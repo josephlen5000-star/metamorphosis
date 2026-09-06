@@ -35,3 +35,21 @@ The project focuses on making nutrition information accessible through a simple 
 ## Status
 
 The application is currently deployed and functional.
+
+## Status
+
+The application is currently deployed and functional.
+
+## Screenshots
+
+### Profile Setup
+![Profile Setup](screenshots/onboarding.png)
+
+### Nutrition Dashboard
+![Nutrition Dashboard](screenshots/dashboard.png)
+
+### Food Search & Logging
+![Food Search & Logging](screenshots/food-search.png)
+
+### Progress
+![Progress](screenshots/progress.png)
