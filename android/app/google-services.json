@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5863588128",
+    "project_id": "metamorphosis-66fd1",
+    "storage_bucket": "metamorphosis-66fd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5863588128:android:605fbe0341c0aec00b1745",
+        "android_client_info": {
+          "package_name": "com.metamorphosis.metamorphosis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUihiqLl1BSZTFphc9tJtIttx7pRjhHds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
